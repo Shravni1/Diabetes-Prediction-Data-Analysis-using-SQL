@@ -1,6 +1,8 @@
 # Diabetes-Prediction-Data-Analysis-using-SQL
 
 
+![di](https://github.com/user-attachments/assets/174d5c2e-ffd0-41c2-8ce8-a655597e58bb)
+
 As part of my internship at Trinity, I was assigned a project to demonstrate my SQL knowledge by analyzing a given dataset, diabetes_prediction. The objective was to apply various SQL queries to extract insights and understand the health metrics and demographics of the patient population.
 
 By executing SQL queries, I calculated patient ages, identified female patients over 30, and determined the average BMI, highlighting general weight health. I also sorted patients by blood glucose levels to prioritize diabetes management and identified those with both hypertension and diabetes for closer monitoring. The prevalence of heart disease was measured, and smoking history was analyzed to reveal lifestyle risk factors.
